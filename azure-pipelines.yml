@@ -1,0 +1,4 @@
+steps:
+- task: DownloadSecureFile@1
+  inputs:
+     secureFile: 'server.key'
